@@ -1,0 +1,10 @@
+*{
+    color: aliceblue;
+}
+a:hover{
+    color: yellow;
+    border: 1px solid white;
+}
+a:active{
+    color: aqua;
+}
